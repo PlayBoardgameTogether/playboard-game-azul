@@ -1,0 +1,11 @@
+{
+  "repository": "PlayBoardgameTogether/playboard-game-azul",
+  "key": "azul",
+  "package": "@boardgame/azul",
+  "assets": [
+    {
+      "id": "azul.base",
+      "archive": "azul"
+    }
+  ]
+}
