@@ -1,0 +1,13 @@
+{
+  "role": "game-avatar",
+  "source": "icon-source.png",
+  "sourceSha256": "6af5e3050f93aaed74ed79983523322bfb960eb7f63e17c163594bfd83109d61",
+  "userSelected": false,
+  "export": "games/azul/art/icon.png",
+  "size": [
+    512,
+    512
+  ],
+  "fit": "contain",
+  "backgroundUsage": false
+}
