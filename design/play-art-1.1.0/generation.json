@@ -1,0 +1,51 @@
+{
+  "version": "1.1.0",
+  "kind": "presentation-art",
+  "generator": "built-in image_gen",
+  "license": "GPL-3.0-only",
+  "rulesChanged": false,
+  "assets": [
+    {
+      "game": "azul",
+      "role": "cover",
+      "prompt": "Use case: stylized-concept. NEW original artwork for a premium PlayBoard board game platform. Sophisticated richly detailed fine PIXEL ART, visible tiny square pixel clusters, tactile physical board game pieces, refined material textures, soft daylight, restrained highlights and natural shadows, mature inviting mood, clear readable silhouette. Coordinated natural wood and dark navy with theme-specific colors. No UI, no paragraphs, no title, no brand logo, no watermark, no border. Avoid generic flat vector, blurry painterly style, glossy casino, low detail cartoon. Asset: landscape 16:10 game cover illustration. Compelling low three-quarter close view across the playable board and pieces, a small scene that makes the viewer want to sit down and play, strong foreground focal point, room to crop safely. Subject: Portuguese azulejo ceramic tiles: cobalt blue stars, turquoise, coral, ochre and white floral geometric tile patterns, small circular factory displays and a beautiful tiled wall.",
+      "original": "design/play-art-1.1.0/azul/cover-original.png",
+      "source": "games/azul/art/play-1.1.0/cover.png",
+      "originalSha256": "aff45dea059f5ccc1aa0078e2b3a914c6733dc151b7969a1dcaeea30e485756f",
+      "sourceSha256": "8a79dfaad93b5a92321dc6976a97e70360c1ec152cc0c73f63499b04d513541f",
+      "webp": "azul-cover.webp",
+      "webpSha256": "ad44b1a370dd36ba4e602bdf0c168d00451c9ed0f05f38484f8a39d72af2ebbf",
+      "width": 960,
+      "height": 600,
+      "bytes": 291198
+    },
+    {
+      "game": "azul",
+      "role": "background",
+      "prompt": "Use case: stylized-concept. NEW original artwork for a premium PlayBoard board game platform. Sophisticated richly detailed fine PIXEL ART, visible tiny square pixel clusters, tactile physical board game pieces, refined material textures, soft daylight, restrained highlights and natural shadows, mature inviting mood, clear readable silhouette. Coordinated natural wood and dark navy with theme-specific colors. No UI, no paragraphs, no title, no brand logo, no watermark, no border. Avoid generic flat vector, blurry painterly style, glossy casino, low detail cartoon. Asset: wide 16:9 immersive background original art. Rich thematic environment extending around a softly lit tabletop in the foreground, detailed atmosphere at the edges, calm low contrast central area suitable behind game UI, no embedded interface. Subject: Portuguese azulejo ceramic tiles: cobalt blue stars, turquoise, coral, ochre and white floral geometric tile patterns, small circular factory displays and a beautiful tiled wall.",
+      "original": "design/play-art-1.1.0/azul/background-original.png",
+      "source": "games/azul/art/play-1.1.0/background.png",
+      "originalSha256": "647df7ca7945910f9ee2320e736a11dc6a38f6d1300bc68a47140f4261c2200d",
+      "sourceSha256": "bc097f4e9f656fecfced70b83936ba37f88ea73bc205f7c0cb0f02b51b826a0c",
+      "webp": "azul-background.webp",
+      "webpSha256": "60d8d5c6c186054a9b74e233d3ef68a156b120572e403416c054176a82cde426",
+      "width": 1280,
+      "height": 720,
+      "bytes": 381468
+    },
+    {
+      "game": "azul",
+      "role": "icon",
+      "prompt": "Use case: stylized-concept. NEW original artwork for a premium PlayBoard board game platform. Sophisticated richly detailed fine PIXEL ART, visible tiny square pixel clusters, tactile physical board game pieces, refined material textures, soft daylight, restrained highlights and natural shadows, mature inviting mood, clear readable silhouette. Coordinated natural wood and dark navy with theme-specific colors. No UI, no paragraphs, no title, no brand logo, no watermark, no border. Avoid generic flat vector, blurry painterly style, glossy casino, low detail cartoon. Asset: square 1024x1024 game avatar. Close-up central iconic arrangement of the main game objects, all important edges visible, 8% breathing room, instantly recognizable even at 64px. Subject: Portuguese azulejo ceramic tiles: cobalt blue stars, turquoise, coral, ochre and white floral geometric tile patterns, small circular factory displays and a beautiful tiled wall.",
+      "original": "design/play-art-1.1.0/azul/icon-original.png",
+      "source": "games/azul/art/play-1.1.0/icon.png",
+      "originalSha256": "8c765b720c86a633b3e2ced7ba0f6d7ffdcdc30ad08fc91cc6bf8aa62b51f1af",
+      "sourceSha256": "64bc87cb6259f09f274b8e8beb424ec83e5e2d3d468e5ac333b652485e0b2e52",
+      "webp": "azul-icon.webp",
+      "webpSha256": "cde66171dbe001b6cbaca35f68585da85c3ae4d75680784e1a550172f9316380",
+      "width": 512,
+      "height": 512,
+      "bytes": 138600
+    }
+  ]
+}
