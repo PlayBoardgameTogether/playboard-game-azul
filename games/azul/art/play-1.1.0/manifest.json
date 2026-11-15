@@ -1,0 +1,29 @@
+{
+  "version": "1.1.0",
+  "kind": "presentation-art",
+  "game": "azul",
+  "ruleVersionUnchanged": true,
+  "assets": [
+    {
+      "role": "cover",
+      "file": "cover.png",
+      "sha256": "8a79dfaad93b5a92321dc6976a97e70360c1ec152cc0c73f63499b04d513541f",
+      "width": 960,
+      "height": 600
+    },
+    {
+      "role": "background",
+      "file": "background.png",
+      "sha256": "bc097f4e9f656fecfced70b83936ba37f88ea73bc205f7c0cb0f02b51b826a0c",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "role": "icon",
+      "file": "icon.png",
+      "sha256": "64bc87cb6259f09f274b8e8beb424ec83e5e2d3d468e5ac333b652485e0b2e52",
+      "width": 512,
+      "height": 512
+    }
+  ]
+}
